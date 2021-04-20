@@ -16,7 +16,7 @@ In my free time I play ice hockey and go to the volunteer fire department.
 ### Projects that I am part of:
 | Project | Position | Timespan |
 |---------|----------|----------|
-| [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord] | Manager & Head of Administration | since 30.12.2018 |
+| [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord] | Founder & Head-Administrator | since 30.12.2018 |
 | [![Discord](https://img.shields.io/discord/634743344794304522?color=02f2ff&label=Synodix&logo=discord&style=flat-square)][vroxdiscord] | Builder | since 14.02.2021 |
 
 [sturmidiscord]: https://discord.com/users/231878626226864128
