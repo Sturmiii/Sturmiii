@@ -14,10 +14,10 @@ In my free time I play ice hockey and go to the volunteer fire department.
 [<img src="https://img.shields.io/badge/× Sturmii ×-000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>][sturmisteam]
 
 ### Projects that I am part of:
-| Project | Position | Timespan |
-|---------|----------|----------|
-| [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord] | Founder & Head-Administrator | since 30.12.2018 |
-| [![Discord](https://img.shields.io/discord/634743344794304522?color=02f2ff&label=Synodix&logo=discord&style=flat-square)][vroxdiscord] | Builder | since 14.02.2021 |
+| Project | Position | Timespan | Status |
+|---------|----------|----------|--------|
+| [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord] | Founder & Head-Administrator | since 30.12.2018 | closed |
+| [![Discord](https://img.shields.io/discord/634743344794304522?color=02f2ff&label=Synodix&logo=discord&style=flat-square)][vroxdiscord] | Builder | since 14.02.2021 | closed |
 
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [sturmitwitter]: https://twitter.com/DerSturmii
