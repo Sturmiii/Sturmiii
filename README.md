@@ -16,9 +16,9 @@ In my free time I play ice hockey and go to the volunteer fire department.
 ### Projects that I am part of:
 | Project | Position | Timespan |
 |---------|----------|----------|
-| ~[Vrox Network]~ (closed) | Founder & Head-Administrator | since 30.12.2018 |
-| ~[Synodix]~ (closed) | Builder | since 14.02.2021 |
-| [ELDIS][ | Support | since 02.06.2019 |
+| ~Vrox Network~ (closed) | Founder & Head-Administrator | since 30.12.2018 |
+| ~Synodix~ (closed) | Builder | since 14.02.2021 |
+| ELDIS | Support | since 02.06.2019 |
 
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [sturmitwitter]: https://twitter.com/DerSturmii
