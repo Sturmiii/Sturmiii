@@ -18,6 +18,7 @@ In my free time I play ice hockey and go to the volunteer fire department.
 |---------|----------|----------|--------|
 | [![Discord](https://img.shields.io/discord/482597261696696341?color=62e7f7&label=Vrox%20Network&logo=discord&style=flat-square)][vroxdiscord] | Founder & Head-Administrator | since 30.12.2018 | closed |
 | [![Discord](https://img.shields.io/discord/634743344794304522?color=02f2ff&label=Synodix&logo=discord&style=flat-square)][vroxdiscord] | Builder | since 14.02.2021 | closed |
+| [![Discord](https://img.shields.io/discord/612965768577155093?color=07B10B&label=ELDIS&logo=discord&style=flat-square)] | Support & Marketing | since 19.08.2019 | working |
 
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [sturmitwitter]: https://twitter.com/DerSturmii
@@ -25,3 +26,4 @@ In my free time I play ice hockey and go to the volunteer fire department.
 [sturmisteam]: https://steamcommunity.com/profiles/76561198347047530/
 [vroxdiscord]: https://discord.gg/rCj7MeU
 [synodixdiscord]: https://discord.gg/QX68mwPFYS
+[eldisdiscord]: https://discord.gg/DxTrX8fHDc
