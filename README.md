@@ -17,8 +17,8 @@ In my free time I play ice hockey and go to the volunteer fire department.
 | Project | Position | Timespan |
 |---------|----------|----------|
 | ~Vrox Network~ (closed) | Founder & Head-Administrator | since 30.12.2018 |
-| ~Synodix~ (closed) | Builder | since 14.02.2021 |
 | FVS | Head of Marketing & Support | since 12.08.2021 |
+| notAbot | Marketing & IT | since 25.09.2021 | 
 
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [sturmitwitter]: https://twitter.com/DerSturmii
