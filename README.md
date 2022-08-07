@@ -1,8 +1,8 @@
 # Hi there, I'm Sturmi, also known as derSturmii 👋
 
 ### About me:
-I am from Austria and currently 15 years old. I am very interested in computer science. \
-I am currently in the first grade of a secondary school, where I am attending the computer science branch.
+I am from Austria and currently 16 years old. I am very interested in computer science. \
+Since September 2021 I've been doing an apprenticeship as an information technician and I'm learning a lot there.
 
 In my free time I play ice hockey and go to the volunteer fire department.
 
@@ -19,6 +19,7 @@ In my free time I play ice hockey and go to the volunteer fire department.
 | ~Vrox Network~ (closed) | Founder & Head-Administrator | since 30.12.2018 |
 | FVS | Head of Administration & Human Resources | since 12.08.2021 |
 | notAbot | Marketing & IT | since 25.09.2021 | 
+| *secret* | Founder & Management | since 31.07.2022 |
 
 [sturmidiscord]: https://discord.com/users/231878626226864128
 [sturmitwitter]: https://twitter.com/DerSturmii
